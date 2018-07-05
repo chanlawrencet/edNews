@@ -3,6 +3,7 @@ import datetime
 from datetime import datetime, timedelta
 import pathlib
 import html
+import math
 
 
 def urls_and_titles(response, urls, titles):
@@ -41,7 +42,7 @@ url = ('https://newsapi.org/v2/everything?'
 response = requests.get(url).json()
 
 numresponses = response['totalResults']
-pages = (numresponses %20)
+pages = math.ceil(numresponses / 20)
 
 urls=[];
 titles=[];
