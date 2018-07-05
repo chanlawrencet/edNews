@@ -1,0 +1,63 @@
+OCR wins HIPAA case
+
+With help from Arthur Allen (@arthurallen202) and Darius Tahir (@dariustahir)
+
+OCR WINS HIPAA CASE: The MD Anderson Cancer Center must pay $4.3 million in fines stemming from insufficient privacy practices, in a victory for the HHS Office for Civil Rights, Morning eHealth’s Darius Tahir reports.
+
+Story Continued Below
+
+The judgement announced Monday involved the disclosure of more than 30,000 patients' protected information, which MD Anderson did not encrypt, leading to OCR's complaint. An administrative law judge affirmed OCR's contention that the cancer center should have encrypted thumb drives containing patient information.
+
+MD Anderson didn't dispute OCR's version of events, but said that it was not obligated to encrypt the data which was for research purposes. The argument led to a rare hearing before an administrative judge, who sided with OCR and blistered the cancer center for its "half-hearted" security practices and "fanciful" legal defenses seeking to evade punishment under HIPAA. Pros can read the rest of the story from Darius here.
+
+“If the size of the fine has the desired sentinel effect, security in healthcare will improve,” Lucia Savage, chief privacy officer at Omada Health and formerly at ONC, tells Morning eHealth.
+
+“In 2013, encryption was expensive and hard. Now, it is actually pretty easy, and there is a declining universe of reasons, if any, NOT to encrypt at rest."
+
+HHS FINALIZES COMMON RULE DELAY: Researchers will not have to comply with changes to regulations surrounding research on human subjects until January 2019, per a final rule HHS published yesterday. Revisions to the so-called Common Rule would simplify the process by which researchers obtain consent from research subjects to use their data and biospecimens.
+
+Despite several delays, the final rule provides a concrete compliance timeline for researchers, and groups including the American Medical Informatics Association were generally supportive.
+
+“While the numerous delays to this rule’s implementation have been frustrating, we see this decision as an important assurance that much-needed updates to human subjects research will enable more data-driven research to the benefit of participants, patients, and the national research community,” the group said.
+
+APPLE TO HELP 911 EMERGENCY SERVICES FIND IPHONE USERS: Apple is embarking on a partnership that would help 911 call centers and emergency services locate callers, POLITICO’s John Hendel reports.
+
+Apple’s partnership with RapidSOS will begin later this year. Users with devices running iOS 12 will automatically be signed up but can opt out of the feature, which sends their location data securely to the relevant 911 call center. RapidSOS is backed by three former FCC chairmen and uses IP-based location data.
+
+“Policymakers have long sought to provide first responders the ability to locate a person in distress while receiving rich data about his or her condition,” says Morgan Reed, president of ACT| The App Association, of which RapidSOS is a member. The partnership is a “key step” in realizing that vision.
+
+RapidSOS is backed by former FCC chairmen Tom Wheeler, Julius Genachowski and Dennis Patrick, who also serve as advisers to the company. Pros can read the rest of John’s story here.
+
+eHealth Tweet of the day: Arianna Blue @ariannacblue "Patients are the most under leveraged resource in the achievement of better outcomes." #healthloop #mhealth
+
+Welcome to TUESDAY at Morning eHealth. Your author is still reeling from a weekend viewing of “Hereditary,” which was equal parts horrifying and thoroughly confusing. News tips and explanations of that surprise ending should go to mravindranath@politico.com. Reach the rest of the team at @arthurallen202, @dariustahir, @ravindranize, @POLITICOPro,@Morning_eHealth.
+
+APPLE ANTITRUST CASE HEADS TO THE SUPREME COURT: The Cupertino tech giant has scored points with patient advocates by opening patient record data up to developers through its new Health Records API. But it still holds tight control over its app store, approving each app sold there and taking a cut for each download.
+
+The Supreme Court plans to review a consumer-led class-action lawsuit that challenges Apple’s app practices, alleging monopoly pricing on the company's App Store, it said Monday.
+
+Apple Inc. v. Pepper centers on the idea that the smartphone maker has monopolistic control over its app store, POLITICO’s Steven Overly writes. The Supreme Court must address the larger question of whether a third-party distributor like Apple can be sued by consumers, even if the exact prices they pay are determined by an outside seller.
+
+Apple contends that it charges a commission to the app creator, not the consumer, and thus cannot be held accountable for setting prices. Both Apple and the Justice Department urged the Supreme Court to look at the case. If Apple loses, it could set a broader precedent for e-commerce marketplaces that sell and distribute products whose prices are determined by third parties. Pros can read the rest of Steven’s story here.
+
+SENATE DEMS CALL FOR IG INVESTIGATION AT VA: Lawmakers are looking for more information about the implementation of a law that would make it easier to terminate VA employees. In a recent letter to the VA’s Office of the Inspector General, Sens. Jon Tester, Tammy Baldwin, Richard Blumenthal, and Sherrod Brown said the Department has failed to supply relevant employment data to Congress though it has acquired and installed the software that would gather such data. They urged the IG to review the VA’s implementation of that law, known as the Department of Veterans Affairs Accountability and Whistleblower Protection Act.
+
+… Meanwhile, nearly half of the VA’s nursing homes received VA’s lowest ranking of one out of five stars, according to reports Monday — data that VA purposefully sought to keep from the public, per USA Today.
+
+GOOGLE USING AI TO PREDICT PATIENT DEATH: Google’s “Medical Brain” team is doing more than just creating a futuristic clinical experience involving elements of voice recognition and artificial intelligence. It’s also looking to predict exactly when patients will die, Bloomberg reports. The company’s algorithms analyze large amounts of patient data including notes from old charts to assign a numerical value to their death risk. It’s still early stage, executives say, and Google is still figuring out how to integrate the technology into clinics.
+
+ON THE HILL: Sen. Ed Markey’s policy director plugged legislation that would incorporate more data into opioid response at a Hill briefing Monday hosted by the American Institutes for Research. Markey, along with Sens. Lisa Murkowski and Maggie Hassan introduced the National Milestones to Measure Progress in Ending the Opioid Epidemic Act this spring, which would establish benchmarks for reducing opioid-related deaths. “We need to start measuring our progress or we will continue to fight the same battle over and over again,” Avenel Joseph said at the event Monday.
+
+On Tuesday, the House Rules Committee meets at 5 p.m. to formulate rules on several bills including the Overdose Prevention and Patient Safety Act, which would allow providers to access patient’s substance abuse history in health records.
+
+WHAT WE’RE CLICKING ON:
+
+— USA Today reports on the role of talk therapy apps in reducing suicide rates
+
+— The New York Times reports on research funding flowing to low-risk proposals from white men
+
+— The Washington Post’s story on an app designed to fight technology addiction
+
+— MobiHealthNews reports on an Optum chief’s warning about black box problems in AI
+
+— RAND report links opioid prescriptions, overdoses and death

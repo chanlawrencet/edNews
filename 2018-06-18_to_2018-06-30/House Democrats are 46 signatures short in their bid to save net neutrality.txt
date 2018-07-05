@@ -1,0 +1,15 @@
+In context: Net neutrality was a set of online protections that prevented ISPs from throttling or blocking access to certain websites, among other things. Those protections were rolled back by the FCC in a controversial December 14 vote, but now Democrats are attempting to use the Congressional Review Act to overturn the Commission's decision.
+
+Back in December, the FCC under Chairman Ajit Pai controversially voted to roll back Title II net neutrality protections. For the unaware, these protections prevented telecom companies from throttling your internet traffic or offering some websites paid prioritization over others.
+
+However, Democrats weren't going to let net neutrality go without a fight. In May, the US Senate voted to overturn the FCC's decision by using the Congressional Review Act (CRA). This vote was seen as a significant victory by many net neutrality proponents.
+
+Unfortunately for those individuals, the fight is far from over. The next step in the CRA is a forced Congress vote, which would require net neutrality supporters to gather 218 signatures on a "discharge petition." So far, they only have 172 signatures, all of which have come from Democrats.
+
+The House #NetNeutrality discharge petition is at 172 signatures. We’re 46 away from being able to force a vote on the resolution to restore the Open Internet Order. Has your representative signed the petition to #SaveTheInternet? Check here: https://t.co/zKI7sxSwGj — Ed Markey (@SenMarkey) June 26, 2018
+
+That puts pro-net neutrality voters 46 signatures short of their goal. Even if they were to persuade the remaining Democrats -- of which there are 21 -- to vote in their favor, net neutrality supporters would still need an additional 25 Republicans to sign off on the discharge petition.
+
+If that wasn't enough of a roadblock to the successful repeal of the FCC's December 14 vote, the CRA still requires approval from President Trump, who can veto the Act when it crosses his desk.
+
+Even if the CRA fails, though, all is not lost. Individual states can always attempt to implement their own strong net neutrality protections, though they may face federal pressure in doing so.

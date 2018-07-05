@@ -1,0 +1,19 @@
+Face scans will be required for all passengers on arriving and departing international flights at Orlando International Airport, the nation’s first airport demand such a security measure.
+
+Airports in Atlanta, Boston, Chicago, Houston, Las Vegas, Miami, New York and Washington already use face scan technology. But they do not require it for every passenger on international flights.
+
+With biometric security, facial images are sent to U.S. Customs and Border Protection (CBP), which then compares them with a photo already on file, usually from a passenger’s passport or driver’s license. The database verifies passenger identities and confirms they are meant to be on the flight, usually within three to five seconds.
+
+Privacy advocates worry that the expanded program in Orlando will create problems due to the lack of regulation. There are no formal rules about what happens to the data collected, nor what actions should be taken if a passenger is wrongly blocked from boarding. U.S. citizens can choose to opt-out of the face scan, but some argue that the availability of this option isn’t made clear.
+
+Congress has taken notice of the program’s lack of direction; last month U.S. Senators Ed Markey (D-MA) and Mike Lee (R-UT) sent a letter to the Department of Homeland Security insisting that formal rules be implemented before Florida expands the face-scanning program. They also requested statistics about the program’s accuracy and impostor detection rates. In other words, does the program even work?
+
+“We request that DHS not only include the ‘match rates,’ indicating how often facial scans ‘match’ photos contained in a database, but also the ‘true reject’ rate–the rate at which travelers using fraudulent credentials are accurately rejected,” read the letter.
+
+According to Harrison Rudolph, an associate at the Center on Privacy & Technology at the Georgetown University Law Center, some research shows facial recognition programs are less accurate when it comes to racial minorities, women, and children. This is due to the lack of diversity in the photographs used to train the program, researchers say.
+
+“We’re not talking about one gate,” said Rudolph, expressing his concern with Orlando’s expansion of the face-scanning program. “We’re talking about every international departure gate, which is a huge expansion of the number of people who will be scanned. Errors tend to go up as uses go up.”
+
+The Orlando International Airport is Florida’s busiest airport, with nearly 6 million international travelers passing through last year, a record-breaking number. Steve Karoly, acting assistant administrator at TSA, said biometric security “will make things a little bit easier, more efficient at an airport environment.”
+
+Earlier last year, President Trump signed an executive order encouraging the expansion of the biometric security program. According to NPR, the CBP hopes to install face scanners in all U.S. airports in four years.

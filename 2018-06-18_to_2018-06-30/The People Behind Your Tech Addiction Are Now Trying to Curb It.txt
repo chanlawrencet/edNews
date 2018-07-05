@@ -1,0 +1,59 @@
+When news broke of the political consulting firm Cambridge Analytica allegedly using private Facebook data to influence the 2016 presidential election, something changed in the public imagination regarding technology and social media. Suddenly, proof materialized that the information we uploaded to the platform was being harvested a political firm to try to swing an election.
+
+None of this would have been possible if not for the fact that our daily lives are increasingly being conducted through digital media. Cambridge Analytica was only able to acquire Facebook data because millions of users had provided that data. The way an entire population communicates has fundamentally changed.
+
+But a group of ex-insiders from the tech industry wants to curb the harm, even harness the power of digital media for good. In 2013, they founded the nonprofit Center for Humane Technology understanding that smartphones are designed to capture and keep attention. Most people don’t understand how they are being manipulated by their smartphones. The CHT was created to help them recognize and resist unhealthy habits often fostered by tech design.
+
+Co-founder Tristan Harris, an ex-Google employee who once held the title of design ethicist and now serves as CHT’s executive director, frames it as a battle nothing less than the most important issue facing the modern world.
+
+“I don’t know a more urgent problem than this, because this problem is underneath all other problems,” he said at an April 2017 TED conference. “It’s not just taking away our agency to spend our attention and live the lives that we want—it’s changing the way that we have our conversations, it’s changing our democracy, and it’s changing our ability to have the conversations and relationships we want with each other. And it affects everyone, because a billion people have one of these in their pocket.”
+
+In terms of worldwide numbers, a billion people is a conservative estimate. More than 2 billion people own smartphones, with that number expected to reach 2.87 billion in 2020. In the United States, smartphones have grown increasingly common over the last seven years. According to the Pew Research Center, 77 percent of American adults own smartphones, up from 35 percent in 2011. A whopping 94 percent of people aged 18–29 own smartphones, as do 89 percent of people aged 30–49 and 73 percent of people aged 60–64. There’s no truly significant drop until you hit 65 and older, but even then, the ownership number is still 46 percent.
+
+Smartphone and tablet use has also seen a dramatic increase among children. Among children ages 0–8, 98 percent lived in homes with some kind of mobile device in 2017, compared to 52 percent in 2011. Over the same time frame, the percentage of those children who had their own devices rose from less than 1 percent to 42 percent, and their average time spent using a mobile device went from five minutes per day to 48 minutes per day.
+
+“Anything that induces pleasure has, at its extreme, addiction.”
+
+The problem is that this technology spreading so rapidly throughout the world is designed to make a profit, and profitability is measured in consumer time spent using a product. The only way to compete in such an industry is to make a product as addictive as possible.
+
+The term “addictive” is a controversial one. The psychological community remains divided on whether behavioral compulsions can be classified as addiction alongside physical compulsions brought on by substances. However, with the addition of gambling addiction to the Diagnostic and Statistical Manual of Mental Disorders (DSM) in 2013 and the inclusion of gaming disorder in the World Health Organization’s latest update of the International Classification of Diseases, the idea of tech addiction is becoming more accepted. Dr. Robert Lustig, an neuroendocrinologist at the University of California, San Francisco, says his work as an advisor for CHT consists primarily of explaining the reality of tech addiction.
+
+“Anything that induces pleasure has, at its extreme, addiction,” Lustig says. “And those exposures can be chemical or behavioral.”
+
+After the addition of gambling to the DSM, “everything changed about the definition of addiction,” he says. “And so under that new rubric of tolerance and dependence, social media, internet gaming, and technology fit the criteria for addiction. There’s no withdrawal. You don’t need withdrawal anymore, because the neuroscience is the same.”
+
+Regardless of the clinical definition, it’s clear that the neural processes that can cause addictive behavior—the brain’s release of dopamine as a reward response to pleasure—are the same processes being triggered by tech. According to Lustig, Facebook’s like button is a perfect example: If someone likes something you post on Facebook, your brain rewards you with a dopamine hit. However, wondering whether your friends will like your post creates stress, which heightens the dopamine effect. The result is continued Facebook use to alleviate the stress that Facebook created, with an increased shot of dopamine when the tension in the brain is briefly eased.
+
+Harris, a former participant in Stanford University’s Persuasive Tech Lab, said in his TED conference speech that tech designers know exactly how to manipulate people into keeping their eyes on the screen: “There’s conferences and workshops that teach people all these covert ways of getting people’s attention and orchestrating people’s lives. And it’s because most people don’t know that that exists that this conversation is so important.”
+
+“60 percent of families were concerned that their children were addicted to their phones.”
+
+Harris believes tech products designed to be addictive are detrimental to everyone, but some of CHT’s strongest advocacy to date has come in the area of children’s health.
+
+In February, CHT partnered with Common Sense Media, an organization that advocates on behalf of children growing up in the digital world, to launch the Truth About Tech campaign. It calls for a shift in values for tech companies—a conscious choice to act in the best interests of children even if that results in a decrease in profits.
+
+“It’s in their business model,” says Colby Zintl, Common Sense’s vice president of external affairs. “They just are trying to make the best product that they possibly can, and, to be honest, our best interests and Facebook’s or Snapchat’s business model are at odds with one another.”
+
+Zintl sees the Truth About Tech campaign as having three goals. The first is public awareness. Zintl believes that the more people know about the tech industry’s efforts to keep their attention, the more likely they are both to modify their own behavior and make informed choices about tech products as consumers.
+
+The second goal is to have this kind of awareness taught in schools. “We want to graduate a new generation of people who think critically and behave responsibly online,” Zintl says. To that end, Common Sense has put together a free K–12 curriculum that is currently being implemented in 55,000 schools across the country. Developed with Harvard University, the material is age-appropriate, beginning with talking to kindergartners about what they’re watching on YouTube and eventually expanding to topics like ethical design and news literacy at the high school level.
+
+Truth About Tech’s third goal is to encourage further research on the subject, preferably funded partly by tech companies themselves. Despite the newly expanded definition of addiction and increasing parental concern over high levels of tech use among children, there is insufficient research proving a net negative relationship between technology and child brain health.
+
+“We use the term ‘addiction’ in a colloquial sense,” Zintl says. “In our report that we did in 2016, we found that 60 percent of families were concerned that their children were addicted to their phones, so that’s their phrase.” She adds, “The medical community is torn on this, and until we have more research and specifically research on the neurological effects on tech on kids’ brains, we can’t really say.”
+
+Dr. Jenny Radesky, a pediatrician at the Michigan Medicine Pediatric Behavioral Clinic who has worked with Common Sense on the campaign, agrees that more research is required, particularly in the new era of mobile media consumption. “The older video gaming research was really spent on how many hours per day and what games are you playing, and whether you play alone or you play together with other people,” she says. “But now that gaming is so mobile and can be accessed instantly, my thinking is that it has the potential to take up more hours of the day. But we don’t yet have data on that.”
+
+What is certain is that, if health risks can be definitively linked to technology, children are more susceptible to them than adults. Lustig explains this in terms of the development of the prefrontal cortex, which controls executive function and behavioral inhibition. The prefrontal cortex is the last part of the brain to myelinate, or create a fatty sheathe around neurons to protect them.
+
+“Adolescents, who have an undeveloped prefrontal cortex, who are constantly being bombarded by dopaminergic input,” he says, “are under chronic neural stimulation. They can lose neurons. And if they lose neurons in adolescence, they ain’t coming back.”
+
+Radesky believes the design of tech products isn’t necessarily malicious, but rather a result of companies seeing what works on adults and employing the same elements in products designed for children. But she is also well aware of the history of children being specifically targeted by industry.
+
+“When the advertisement is built into your game, or the apps themselves are advertisements, apps are meant to create brand loyalty among different toys or different characters, or when there’s gamified features and all these instant direct rewards, I think it’s exponentially more influential on children,” she says.
+
+CHT and Truth About Tech are making progress in their attempts to enact positive change. Recently, Google launched a new website, Digital Wellbeing. Designed to inform its users of technology concerns and provide information on how to regulate use, it is remarkably similar to CHT’s own website. Apple has taken similar actions—its “Families” page is dedicated to promoting responsible use of its products for parents and children. CHT is also in the process of drafting an internet developer’s code of ethics. But a greater goal, according to both Lustig and Zintl, is to subject the industry to outside regulation.
+
+Zintl says she has seen some movement in the area of privacy regulation, pointing to a bill floating around California and a collaboration between her colleagues and U.S. Sen. Ed Markey, who is trying to introduce a bill calling for more research.
+
+Ultimately, CHT wants the end result of its advocacy to be not only taking back power over our devices and our minds, but the redirection of that power toward human gain, not just the pursuit of profit.

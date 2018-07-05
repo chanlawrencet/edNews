@@ -1,0 +1,25 @@
+ORLANDO, Fla. -- Florida's busiest airport is becoming the first in the nation to require a face scan of passengers on all arriving and departing international flights, including U.S. citizens, according to officials there. The expected announcement Thursday at Orlando International Airport alarms some privacy advocates who say there are no formal rules in place for handling data gleaned from the scans, nor formal guidelines on what should happen if a passenger is wrongly prevented from boarding.
+
+Airports in Atlanta, Boston, Chicago, Houston, Las Vegas, Miami, New York and Washington already use face scans for some departing international flights, but they don't involve all international travelers at the airports like the program's expansion in Orlando would. The image from the face scan is compared to a Department of Homeland Security biometric database that has images of people who should be on the flight, in order to verify the traveler's identity.
+
+U.S. citizens at these airports can opt out, but the agency "doesn't seem to be doing an adequate job letting Americans know they can opt out," said Harrison Rudolph, an associate at the Center on Privacy & Technology at the Georgetown University Law Center.
+
+U.S. citizens at the Orlando airport -- which had about 6 million international passengers in the past year -- will be able to opt out just like at the other airports if they don't want to provide their photograph, Jennifer Gabris, a spokeswoman for the U.S. Customs and Border Protection said in an email. However, a notice about a possible rule change for the program states that "U.S. citizens may be required to provide photographs upon entering or departing the United States."
+
+Joe Raedle/Getty Images
+
+The Orlando announcement marks a step up in the scope of the face scan program, Rudolph said.
+
+"We're not talking about one gate," he said. "We're talking about every international departure gate, which is a huge expansion of the number of people who will be scanned. Errors tend to go up as uses go up."
+
+In seconds, facial recognition technology can compare a picture taken at the gate against a flier's passport picture stored in a government database. Rudolph said he has concerns about the face scans' accuracy, since some research shows they are less accurate with racial minorities, women and children. Researchers say this is because photos used to train the face-scanning software underrepresent minorities, women and young people.
+
+Two U.S. senators last month sent a letter to the Department of Homeland Security, which is home to the border protection agency, urging that formal rules be implemented before the program is expanded.
+
+"It will also ensure a full vetting of this potentially sweeping program that could impact every American leaving the country by airport," said the letter from U.S. Sen. Ed Markey, D-Mass. and U.S. Sen. Mike Lee, R-Utah.
+
+As CBS News transportation correspondent Kris Van Cleave has reported, more than 2 million people move through the nation's airports per day, and airlines have been testing new technology to improve security and speed up the boarding process.
+
+New biometric technology has expanded beyond boarding. Delta announced last year it would launch a self-service bag drop powered by facial recognition technology -- the first of its kind at U.S. airports. There's also Clear, a private company that stores and verifies customers' biometrics, allowing fliers to go to the front of the security line at 24 airports nationwide.
+
+"Marrying all of the technologies at each of the steps in the travel ribbon is a game changer for the experience," said Gareth Joyce, senior vice president of airport customer service and president of cargo at Delta. "You can literally go from, you know, curb to plane without having to interact with a human being if you so desire."
